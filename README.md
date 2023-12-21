@@ -1,10 +1,8 @@
 # IE7615 - Credit Card Approval Prediction using Neural Network
 This project implement an Artificial Neural Network (ANN) to solve the binary classification of credit card data as good credit or bad credit.
 
-
 The data used comes from UC Irvine Machine Learning Repository: 
 http://archive.ics.uci.edu/dataset/27/credit+approval
-
 
 ## Data Preprocessing:
 This project is done entirely in Python. Libraries/packages used include NumPy, pandas, scikit-learn (sklearn), TensorFlow, 
