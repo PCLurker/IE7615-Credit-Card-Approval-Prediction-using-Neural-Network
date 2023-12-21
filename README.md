@@ -34,14 +34,6 @@ This ANN model is trained with the following configuration:
 * Loss function: keras.losses.SparseCategoricalCrossentropy
 * Batch size: 64
 * Epoch: 64
-* 
-Support Vector Machine (SVM) is a supervised machine learning algorithm. SVM can be used for 
-classification and regression problems. SVM plots each data item as a point in dimensional space. The 
-value of each feature belongs to a particular coordinate. Classification was performed by finding 
-hyperplanes that divide two classes.
-
-If the separator for the dataset is not linear, a non-linear SVM model can be used instead, which 
-will transform the data into higher dimension space, where a linear hyperplane can be found.
 
 ## Evaluate the model:
 We evaluate all models using accuracy metric.
